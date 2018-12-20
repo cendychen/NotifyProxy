@@ -1,5 +1,5 @@
 secret:
-  key: 1222
+  key: abcd
 
 ping:
   period: 2
@@ -14,8 +14,8 @@ wechat:
       secret:
 
 server:
-  port: 9000
+  port: 9010
 
 white:
-  list: 172.16.13.1,127.0.0.1,0:0:0:0:0:0:0:1
+  list: 172.16.13.1,127.0.0.1
 

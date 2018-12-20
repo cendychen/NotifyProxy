@@ -1,7 +1,7 @@
 package cendy.chen.org.notify.config;
 
-import cendy.chen.org.notify.aop.AuthorInterceptor;
-import cendy.chen.org.notify.aop.SignInterceptor;
+import cendy.chen.org.notify.interceptor.AuthorInterceptor;
+import cendy.chen.org.notify.interceptor.SignInterceptor;
 import cendy.chen.org.notify.job.PingCheckTask;
 import cendy.chen.org.notify.service.AlertTextBuilder;
 import org.springframework.beans.factory.annotation.Value;

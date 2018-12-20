@@ -1,4 +1,4 @@
-package cendy.chen.org.notify.aop;
+package cendy.chen.org.notify.interceptor;
 
 import cendy.chen.org.notify.annotation.Anonymous;
 import cendy.chen.org.notify.result.RestfulErrorCode;
